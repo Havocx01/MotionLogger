@@ -1,0 +1,124 @@
+model,activityLabel,recording,recordingGroup,target,windowAccuracy,meanWalkingProbability,predictedWalkingWindows,totalWindows,recordingPrediction,recordingCorrect
+Baseline RF - 10 features,ARM_SWING,01_normal_walking_cadence,ARM_SWING__01_normal_walking_cadence,0,1.0,0.04060941983464733,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,02_slow_cadence,ARM_SWING__02_slow_cadence,0,0.9285714285714286,0.1416944783911752,1,14,0,True
+Baseline RF - 10 features,ARM_SWING,03_fast_cadence,ARM_SWING__03_fast_cadence,0,0.21428571428571427,0.6428865540040556,11,14,1,False
+Baseline RF - 10 features,ARM_SWING,04_small_swing,ARM_SWING__04_small_swing,0,1.0,0.007971768707482991,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,05_large_swing,ARM_SWING__05_large_swing,0,0.07142857142857142,0.8393208023004857,13,14,1,False
+Baseline RF - 10 features,ARM_SWING,06_relaxed_swing,ARM_SWING__06_relaxed_swing,0,1.0,0.0012714946070878275,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,07_irregular_swing,ARM_SWING__07_irregular_swing,0,1.0,0.11818760148856851,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,08_very_walking-like,ARM_SWING__08_very_walking-like,0,0.8571428571428571,0.205043342960902,2,14,0,True
+Baseline RF - 10 features,ARM_SWING,09_very_walking-like,ARM_SWING__09_very_walking-like,0,1.0,0.05039835327776442,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,10_very_walking-like,ARM_SWING__10_very_walking-like,0,1.0,0.015499412687078233,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,11_walking_like_torso_bounce,ARM_SWING__11_walking_like_torso_bounce,0,0.9285714285714286,0.12974322430218227,1,14,0,True
+Baseline RF - 10 features,ARM_SWING,12_walking_like_knee_bend,ARM_SWING__12_walking_like_knee_bend,0,0.7857142857142857,0.19041165882635047,3,14,0,True
+Baseline RF - 10 features,ARM_SWING,13_walking_like_weight_shift,ARM_SWING__13_walking_like_weight_shift,0,1.0,0.009156396564308925,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,14_small_natural_swing,ARM_SWING__14_small_natural_swing,0,1.0,0.01418095238095238,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,15_slow_cadence_02,ARM_SWING__15_slow_cadence_02,0,1.0,0.013397989979069453,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,16_slow_cadence_03,ARM_SWING__16_slow_cadence_03,0,1.0,0.002365977147360126,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,17_fast_cadence_02,ARM_SWING__17_fast_cadence_02,0,1.0,0.221009970015436,0,14,0,True
+Baseline RF - 10 features,ARM_SWING,18_fast_cadence_03,ARM_SWING__18_fast_cadence_03,0,0.5,0.4713150473134023,7,14,0,True
+Baseline RF - 10 features,ARM_SWING,19_large_swing_02,ARM_SWING__19_large_swing_02,0,0.35714285714285715,0.5473070588106185,9,14,1,False
+Baseline RF - 10 features,ARM_SWING,20_large_swing_03,ARM_SWING__20_large_swing_03,0,0.8571428571428571,0.3850038345411645,2,14,0,True
+Baseline RF - 10 features,WALKING,01_normal,WALKING__01_normal,1,1.0,0.9000389627768373,14,14,1,True
+Baseline RF - 10 features,WALKING,02_normal,WALKING__02_normal,1,1.0,0.9042574259464616,14,14,1,True
+Baseline RF - 10 features,WALKING,03_slow,WALKING__03_slow,1,0.7142857142857143,0.5975658519272368,10,14,1,True
+Baseline RF - 10 features,WALKING,04_fast,WALKING__04_fast,1,1.0,0.7843583585010938,14,14,1,True
+Baseline RF - 10 features,WALKING,05_short_arm_swings,WALKING__05_short_arm_swings,1,1.0,0.98721750648814,14,14,1,True
+Baseline RF - 10 features,WALKING,06_large_arm_swings,WALKING__06_large_arm_swings,1,0.14285714285714285,0.269579710005359,2,14,0,False
+Baseline RF - 10 features,WALKING,07_relaxed_arms,WALKING__07_relaxed_arms,1,1.0,0.9652127064166461,14,14,1,True
+Baseline RF - 10 features,WALKING,08_slightly_irregular_pace,WALKING__08_slightly_irregular_pace,1,1.0,0.8561132024500431,14,14,1,True
+Baseline RF - 10 features,WALKING,09_normal,WALKING__09_normal,1,1.0,0.9634089843215484,14,14,1,True
+Baseline RF - 10 features,WALKING,10_normal,WALKING__10_normal,1,1.0,0.8963917169046327,14,14,1,True
+Baseline RF - 10 features,WALKING,11_arm_held_still,WALKING__11_arm_held_still,1,1.0,0.9899989093702296,14,14,1,True
+Baseline RF - 10 features,WALKING,12_looking_at_phone,WALKING__12_looking_at_phone,1,1.0,0.958268660580172,14,14,1,True
+Baseline RF - 10 features,WALKING,13_sensor_hand_in_pocket,WALKING__13_sensor_hand_in_pocket,1,1.0,0.9654621798202973,14,14,1,True
+Baseline RF - 10 features,WALKING,14_carrying_a_light_object,WALKING__14_carrying_a_light_object,1,1.0,0.9858355073758978,14,14,1,True
+Baseline RF - 10 features,WALKING,15_frequent_gentle_turns,WALKING__15_frequent_gentle_turns,1,1.0,0.9239487650416329,14,14,1,True
+Baseline RF - 10 features,WALKING,16_slow_02,WALKING__16_slow_02,1,1.0,0.7671857839791426,14,14,1,True
+Baseline RF - 10 features,WALKING,17_slow_03,WALKING__17_slow_03,1,0.8571428571428571,0.7058747675441363,12,14,1,True
+Baseline RF - 10 features,WALKING,18_fast_02,WALKING__18_fast_02,1,1.0,0.9504665264211705,14,14,1,True
+Baseline RF - 10 features,WALKING,19_fast_03,WALKING__19_fast_03,1,1.0,0.9447149417982532,14,14,1,True
+Baseline RF - 10 features,WALKING,20_large_arm_swings_02,WALKING__20_large_arm_swings_02,1,0.7857142857142857,0.58569977594167,11,14,1,True
+Baseline RF - 10 features,WALKING,21_large_arm_swings_03,WALKING__21_large_arm_swings_03,1,0.7857142857142857,0.6346112264556636,11,14,1,True
+Enhanced RF,ARM_SWING,01_normal_walking_cadence,ARM_SWING__01_normal_walking_cadence,0,1.0,0.01109481292517007,0,14,0,True
+Enhanced RF,ARM_SWING,02_slow_cadence,ARM_SWING__02_slow_cadence,0,0.9285714285714286,0.1018454506802721,1,14,0,True
+Enhanced RF,ARM_SWING,03_fast_cadence,ARM_SWING__03_fast_cadence,0,0.7142857142857143,0.30432716836734697,4,14,0,True
+Enhanced RF,ARM_SWING,04_small_swing,ARM_SWING__04_small_swing,0,1.0,0.004962159863945577,0,14,0,True
+Enhanced RF,ARM_SWING,05_large_swing,ARM_SWING__05_large_swing,0,0.42857142857142855,0.521139314058957,8,14,1,False
+Enhanced RF,ARM_SWING,06_relaxed_swing,ARM_SWING__06_relaxed_swing,0,1.0,0.007166170634920635,0,14,0,True
+Enhanced RF,ARM_SWING,07_irregular_swing,ARM_SWING__07_irregular_swing,0,1.0,0.038927551594962306,0,14,0,True
+Enhanced RF,ARM_SWING,08_very_walking-like,ARM_SWING__08_very_walking-like,0,1.0,0.15852869897959185,0,14,0,True
+Enhanced RF,ARM_SWING,09_very_walking-like,ARM_SWING__09_very_walking-like,0,1.0,0.041567814625850345,0,14,0,True
+Enhanced RF,ARM_SWING,10_very_walking-like,ARM_SWING__10_very_walking-like,0,1.0,0.009312925170068027,0,14,0,True
+Enhanced RF,ARM_SWING,11_walking_like_torso_bounce,ARM_SWING__11_walking_like_torso_bounce,0,1.0,0.06088998724489796,0,14,0,True
+Enhanced RF,ARM_SWING,12_walking_like_knee_bend,ARM_SWING__12_walking_like_knee_bend,0,0.8571428571428571,0.19588956207482994,2,14,0,True
+Enhanced RF,ARM_SWING,13_walking_like_weight_shift,ARM_SWING__13_walking_like_weight_shift,0,1.0,0.02342517006802721,0,14,0,True
+Enhanced RF,ARM_SWING,14_small_natural_swing,ARM_SWING__14_small_natural_swing,0,1.0,0.044612056841967555,0,14,0,True
+Enhanced RF,ARM_SWING,15_slow_cadence_02,ARM_SWING__15_slow_cadence_02,0,1.0,0.011405399659863947,0,14,0,True
+Enhanced RF,ARM_SWING,16_slow_cadence_03,ARM_SWING__16_slow_cadence_03,0,1.0,0.007821428571428571,0,14,0,True
+Enhanced RF,ARM_SWING,17_fast_cadence_02,ARM_SWING__17_fast_cadence_02,0,1.0,0.07047189801436798,0,14,0,True
+Enhanced RF,ARM_SWING,18_fast_cadence_03,ARM_SWING__18_fast_cadence_03,0,1.0,0.13252253401360545,0,14,0,True
+Enhanced RF,ARM_SWING,19_large_swing_02,ARM_SWING__19_large_swing_02,0,0.5714285714285714,0.38603043737099496,6,14,0,True
+Enhanced RF,ARM_SWING,20_large_swing_03,ARM_SWING__20_large_swing_03,0,0.8571428571428571,0.2729314767573696,2,14,0,True
+Enhanced RF,WALKING,01_normal,WALKING__01_normal,1,1.0,0.9448359905496181,14,14,1,True
+Enhanced RF,WALKING,02_normal,WALKING__02_normal,1,1.0,0.9717819220801829,14,14,1,True
+Enhanced RF,WALKING,03_slow,WALKING__03_slow,1,0.7857142857142857,0.5940075936094776,11,14,1,True
+Enhanced RF,WALKING,04_fast,WALKING__04_fast,1,1.0,0.9155665650913346,14,14,1,True
+Enhanced RF,WALKING,05_short_arm_swings,WALKING__05_short_arm_swings,1,1.0,0.9966161677897168,14,14,1,True
+Enhanced RF,WALKING,06_large_arm_swings,WALKING__06_large_arm_swings,1,0.2857142857142857,0.41930607480060983,4,14,0,False
+Enhanced RF,WALKING,07_relaxed_arms,WALKING__07_relaxed_arms,1,1.0,0.9960237451041023,14,14,1,True
+Enhanced RF,WALKING,08_slightly_irregular_pace,WALKING__08_slightly_irregular_pace,1,1.0,0.9285191683523156,14,14,1,True
+Enhanced RF,WALKING,09_normal,WALKING__09_normal,1,1.0,0.9885285017621507,14,14,1,True
+Enhanced RF,WALKING,10_normal,WALKING__10_normal,1,1.0,0.9590327765724307,14,14,1,True
+Enhanced RF,WALKING,11_arm_held_still,WALKING__11_arm_held_still,1,1.0,0.9957021837349398,14,14,1,True
+Enhanced RF,WALKING,12_looking_at_phone,WALKING__12_looking_at_phone,1,1.0,0.9767235438290794,14,14,1,True
+Enhanced RF,WALKING,13_sensor_hand_in_pocket,WALKING__13_sensor_hand_in_pocket,1,1.0,0.9965331752643624,14,14,1,True
+Enhanced RF,WALKING,14_carrying_a_light_object,WALKING__14_carrying_a_light_object,1,1.0,0.9958443204395857,14,14,1,True
+Enhanced RF,WALKING,15_frequent_gentle_turns,WALKING__15_frequent_gentle_turns,1,1.0,0.9566718575588131,14,14,1,True
+Enhanced RF,WALKING,16_slow_02,WALKING__16_slow_02,1,1.0,0.857909126000879,14,14,1,True
+Enhanced RF,WALKING,17_slow_03,WALKING__17_slow_03,1,0.7857142857142857,0.7367887967687075,11,14,1,True
+Enhanced RF,WALKING,18_fast_02,WALKING__18_fast_02,1,1.0,0.9795039386966907,14,14,1,True
+Enhanced RF,WALKING,19_fast_03,WALKING__19_fast_03,1,1.0,0.9560404818078393,14,14,1,True
+Enhanced RF,WALKING,20_large_arm_swings_02,WALKING__20_large_arm_swings_02,1,0.9285714285714286,0.8140158196269376,13,14,1,True
+Enhanced RF,WALKING,21_large_arm_swings_03,WALKING__21_large_arm_swings_03,1,0.8571428571428571,0.7324639507580422,12,14,1,True
+Enhanced ExtraTrees,ARM_SWING,01_normal_walking_cadence,ARM_SWING__01_normal_walking_cadence,0,1.0,0.02057091643097147,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,02_slow_cadence,ARM_SWING__02_slow_cadence,0,0.9285714285714286,0.12676514400534278,1,14,0,True
+Enhanced ExtraTrees,ARM_SWING,03_fast_cadence,ARM_SWING__03_fast_cadence,0,0.7142857142857143,0.34807438968806437,4,14,0,True
+Enhanced ExtraTrees,ARM_SWING,04_small_swing,ARM_SWING__04_small_swing,0,1.0,0.00548768899006851,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,05_large_swing,ARM_SWING__05_large_swing,0,0.42857142857142855,0.5720903001463349,8,14,1,False
+Enhanced ExtraTrees,ARM_SWING,06_relaxed_swing,ARM_SWING__06_relaxed_swing,0,1.0,0.00344922814610958,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,07_irregular_swing,ARM_SWING__07_irregular_swing,0,1.0,0.05968297987438279,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,08_very_walking-like,ARM_SWING__08_very_walking-like,0,1.0,0.2032553673886011,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,09_very_walking-like,ARM_SWING__09_very_walking-like,0,0.9285714285714286,0.06072664289180979,1,14,0,True
+Enhanced ExtraTrees,ARM_SWING,10_very_walking-like,ARM_SWING__10_very_walking-like,0,1.0,0.010230670448143806,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,11_walking_like_torso_bounce,ARM_SWING__11_walking_like_torso_bounce,0,1.0,0.0837716110605334,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,12_walking_like_knee_bend,ARM_SWING__12_walking_like_knee_bend,0,0.8571428571428571,0.24507074319978112,2,14,0,True
+Enhanced ExtraTrees,ARM_SWING,13_walking_like_weight_shift,ARM_SWING__13_walking_like_weight_shift,0,1.0,0.019081907331104347,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,14_small_natural_swing,ARM_SWING__14_small_natural_swing,0,1.0,0.016125680735999588,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,15_slow_cadence_02,ARM_SWING__15_slow_cadence_02,0,1.0,0.014402857334445449,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,16_slow_cadence_03,ARM_SWING__16_slow_cadence_03,0,1.0,0.005004991827884718,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,17_fast_cadence_02,ARM_SWING__17_fast_cadence_02,0,1.0,0.09491765011995991,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,18_fast_cadence_03,ARM_SWING__18_fast_cadence_03,0,1.0,0.13948202519276148,0,14,0,True
+Enhanced ExtraTrees,ARM_SWING,19_large_swing_02,ARM_SWING__19_large_swing_02,0,0.5,0.42681781340388036,7,14,0,True
+Enhanced ExtraTrees,ARM_SWING,20_large_swing_03,ARM_SWING__20_large_swing_03,0,0.8571428571428571,0.25924902306906533,2,14,0,True
+Enhanced ExtraTrees,WALKING,01_normal,WALKING__01_normal,1,1.0,0.9319544926726191,14,14,1,True
+Enhanced ExtraTrees,WALKING,02_normal,WALKING__02_normal,1,1.0,0.9454583631211523,14,14,1,True
+Enhanced ExtraTrees,WALKING,03_slow,WALKING__03_slow,1,0.8571428571428571,0.5968889163495655,12,14,1,True
+Enhanced ExtraTrees,WALKING,04_fast,WALKING__04_fast,1,1.0,0.8949386957401518,14,14,1,True
+Enhanced ExtraTrees,WALKING,05_short_arm_swings,WALKING__05_short_arm_swings,1,1.0,0.9901607203499506,14,14,1,True
+Enhanced ExtraTrees,WALKING,06_large_arm_swings,WALKING__06_large_arm_swings,1,0.14285714285714285,0.3899607045687049,2,14,0,False
+Enhanced ExtraTrees,WALKING,07_relaxed_arms,WALKING__07_relaxed_arms,1,1.0,0.9932400413908401,14,14,1,True
+Enhanced ExtraTrees,WALKING,08_slightly_irregular_pace,WALKING__08_slightly_irregular_pace,1,1.0,0.9050778112213873,14,14,1,True
+Enhanced ExtraTrees,WALKING,09_normal,WALKING__09_normal,1,1.0,0.9784188758074096,14,14,1,True
+Enhanced ExtraTrees,WALKING,10_normal,WALKING__10_normal,1,1.0,0.9319956457412587,14,14,1,True
+Enhanced ExtraTrees,WALKING,11_arm_held_still,WALKING__11_arm_held_still,1,1.0,0.9958728345622628,14,14,1,True
+Enhanced ExtraTrees,WALKING,12_looking_at_phone,WALKING__12_looking_at_phone,1,1.0,0.9723892258728847,14,14,1,True
+Enhanced ExtraTrees,WALKING,13_sensor_hand_in_pocket,WALKING__13_sensor_hand_in_pocket,1,1.0,0.9933581538118677,14,14,1,True
+Enhanced ExtraTrees,WALKING,14_carrying_a_light_object,WALKING__14_carrying_a_light_object,1,1.0,0.9917555732531882,14,14,1,True
+Enhanced ExtraTrees,WALKING,15_frequent_gentle_turns,WALKING__15_frequent_gentle_turns,1,1.0,0.9486646027676152,14,14,1,True
+Enhanced ExtraTrees,WALKING,16_slow_02,WALKING__16_slow_02,1,1.0,0.8253217600094638,14,14,1,True
+Enhanced ExtraTrees,WALKING,17_slow_03,WALKING__17_slow_03,1,0.8571428571428571,0.7497521051899401,12,14,1,True
+Enhanced ExtraTrees,WALKING,18_fast_02,WALKING__18_fast_02,1,1.0,0.9672571379614239,14,14,1,True
+Enhanced ExtraTrees,WALKING,19_fast_03,WALKING__19_fast_03,1,1.0,0.932703168897741,14,14,1,True
+Enhanced ExtraTrees,WALKING,20_large_arm_swings_02,WALKING__20_large_arm_swings_02,1,0.8571428571428571,0.7544801508927313,12,14,1,True
+Enhanced ExtraTrees,WALKING,21_large_arm_swings_03,WALKING__21_large_arm_swings_03,1,0.7857142857142857,0.6912493187269542,11,14,1,True

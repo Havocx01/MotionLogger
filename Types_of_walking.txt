@@ -1,0 +1,32 @@
+WALKING
+01 normal
+02 normal
+03 slow
+04 fast
+05 short arm swings
+06 large arm swings
+07 relaxed arms
+08 slightly irregular pace
+09 normal
+10 normal
+11 arm held still / minimal wrist movement
+12 phone in sensor hand / looking at phone
+13 sensor hand in pocket
+14 carrying a light object with sensor arm
+15 frequent gentle turns / curved walking
+
+ARM_SWING
+01 normal walking cadence
+02 slow cadence
+03 fast cadence
+04 small swing
+05 large swing
+06 relaxed swing
+07 irregular swing
+08 very walking-like
+09 very walking-like
+10 very walking-like
+11 walking-like swing + slight torso bounce, feet planted
+12 walking-like swing + gentle knee bending, feet planted
+13 walking-like swing + weight shifting side to side, feet planted
+14 very small natural-looking swing, feet planted
